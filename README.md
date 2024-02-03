@@ -22,7 +22,7 @@
 - composer update
 - run php artisan key:generate
 - config your own database
-- php artisan migrate --seed
+- php artisan migrate --seed   OR php artisan db:seed 
 
 
 ## Youtube
